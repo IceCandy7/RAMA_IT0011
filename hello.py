@@ -1,0 +1,1 @@
+print("Hello, Dota 2");
